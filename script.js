@@ -1,7 +1,7 @@
-const depth = 5;
+const depth = 7;
  // The angle each new branch level rotates by (branches spin left/right)
  var curl = Math.PI / 3
- var breadth = 4
+ var breadth = 5
  var spread = Math.PI / 3
  zoomLevel = 200
 
